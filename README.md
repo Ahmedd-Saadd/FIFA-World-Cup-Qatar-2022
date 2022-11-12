@@ -2,7 +2,7 @@
 # FIFA-2022-World-cup-predictions
 I used Machine Learning to make a Logistic Regression model using scikit-learn, pandas, numpy, seaborn and matplotlib to predict the results of FIFA 2022 World Cup.
 
-# FIFA World Cup 2018 Winner Predictions
+# FIFA World Cup 2022 Winner Predictions
 # Goals
 1)The goal is to use Machine Learning to predict who is going to win the FIFA World Cup 2022.
 
