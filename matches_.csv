@@ -1,0 +1,65 @@
+﻿Round,Group,Date,Home,Away, Time (ET),Staduim
+1,A,"Mon, Nov. 21",Senegal,Netherlands,5 a.m.,Al Thumama Stadium
+1,A,"Mon, Nov. 21",Qatar,Ecuador,11 a.m.,Al Bayt Stadium
+1,B,"Mon, Nov. 21",England,IR Iran,8 a.m.,Khalifa Int'l Stadium
+1,B,"Mon, Nov. 21",USA,Wales,2 p.m.,Ahmad Bin Ali Stadium
+1,C,"Tues, Nov. 22",Argentina,Saudi Arabia,5 a.m.,Lusail Stadium
+1,C,"Tues, Nov. 22",Mexico,Poland,11 a.m.,Stadium 974
+1,D,"Tue, Nov. 22",Denmark,Tunisia,8 a.m.,Education City Stadium
+1,D,"Tue, Nov. 22",France,Australia,2 p.m.,Al Janoub Stadium
+1,E,"Wed, Nov. 23",Germany,Japan,8 a.m.,Khalifa Int'l
+1,E,"Wed, Nov. 23",Spain,Costa Rica,11 a.m.,Al Thumama
+1,F,"Wed, Nov. 23",Morocco,Croatia,5 a.m.,Al Bayt
+1,F,"Wed, Nov. 23",Belgium,Canada,2 p.m.,Ahmad Bin Ali
+1,G,"Thurs, Nov. 24",Switzerland,Cameroon,5 a.m.,Al Janoub Stadium
+1,G,"Thurs, Nov. 24",Brazil,Serbia,2 p.m.,Lusail Stadium
+1,H,"Thurs, Nov. 24",Uruguay,South Korea,8 a.m.,Education City Stadium
+1,H,"Thurs, Nov. 24",Portugal,Ghana,11 a.m.,Stadium 974
+2,A,"Fri, Nov. 25",Qatar,Senegal,8 a.m.,Al Thumama Stadium
+2,A,"Fri, Nov. 25",Netherlands,Ecuador,11 a.m.,Khalifa Int'l Stadium
+2,B,"Fri, Nov. 25",Wales,IR Iran,5 a.m.,Ahmad Bin Ali Stadium
+2,B,"Fri, Nov. 25",England,USA,2 p.m.,Al Bayt Stadium
+2,C,"Sat, Nov. 26",Poland,Saudi Arabia,8 a.m.,Education City Stadium
+2,C,"Sat, Nov. 26",Argentina,Mexico,2 p.m.,Lusail Stadium
+2,D,"Sat, Nov. 26",Tunisia,Australia,5 a.m.,Al Janoub Stadium
+2,D,"Sat, Nov. 26",France,Denmark,11 a.m.,Stadium 974
+2,E,"Sun, Nov. 27",Japan,Costa Rica,5 a.m.,Ahmad Bin Ali
+2,E,"Sun, Nov. 27",Spain,Germany,2 p.m.,Al Bayt
+2,F,"Sun, Nov. 27",Belgium,Morocco,8 a.m.,Al Thumama
+2,F,"Sun, Nov. 27",Croatia,Canada,11 a.m.,Khalifa Int'l
+2,G,"Mon, Nov. 28",Cameroon,Serbia,5 a.m.,Al Janoub Stadium
+2,G,"Mon, Nov. 28",Brazil,Switzerland,11 a.m.,Stadium 974
+2,H,"Mon, Nov. 28",South Korea,Ghana,8 a.m.,Education City Stadium
+2,H,"Mon, Nov. 28",Portugal,Uruguay,2 p.m.,Lusail Stadium
+3,A,"Tues, Nov. 29",Netherlands,Qatar,10 a.m.,Al Bayt Stadium
+3,A,"Tues, Nov. 29",Ecuador,Senegal,10 a.m.,Khalifa Int'l Stadium
+3,B,"Tues, Nov. 29",Wales,England,2 p.m.,Ahmad Bin Ali Stadium
+3,B,"Tues, Nov. 29",IR Iran,USA,2 p.m.,Al Thumama Stadium
+3,C,"Wed, Nov. 30",Poland,Argentina,2 p.m.,Stadium 974
+3,C,"Wed, Nov. 30",Saudi Arabia,Mexico,2 p.m.,Lusail Stadium
+3,D,"Wed, Nov. 30",Tunisia,France,10 a.m.,Education City Stadium
+3,D,"Wed, Nov. 30",Australia,Denmark,10 a.m.,Al Janoub Stadium
+3,E,"Thurs, Dec. 1",Japan,Spain,2 p.m.,Khalifa Int'l
+3,E,"Thurs, Dec. 1",Costa Rica,Germany,2 p.m.,Al Bayt
+3,F,"Thurs, Dec. 1",Croatia,Belgium,10 a.m.,Ahmad Bin Ali 
+3,F,"Thurs, Dec. 1",Canada,Morocco,10 a.m.,Al Thumama
+3,G,"Fri, Dec. 2",Cameroon,Brazil,2 p.m.,Lusail Stadium
+3,G,"Fri, Dec. 2",Serbia,Switzerland,2 p.m.,Stadium 974
+3,H,"Fri, Dec. 2",South Korea,Portugal,10 a.m.,Education City Stadium
+3,H,"Fri, Dec. 2",Ghana,Uruguay,10 a.m.,Al Janoub Stadium
+Round 16 k.outs,,"Sat, Dec. 3",1A ,2B,10 a.m.,Khalifa Int'l
+Round 16 k.outs,,"Sat, Dec. 3",1C,2D,2 p.m.,Ahmad Bin Ali
+Round 16 k.outs,,"Sun, Dec. 4",1D,2C,10 a.m.,Al Thumama
+Round 16 k.outs,,"Sun, Dec. 4",1B ,2A,2 p.m.,Al Bayt
+Round 16 k.outs,,"Mon, Dec. 5",1E,2F,10 a.m.,Al Janoub
+Round 16 k.outs,,"Mon, Dec. 5",1G ,2H,2 p.m.,Stadium 974
+Round 16 k.outs,,"Tues, Dec. 6",1F,2E,10 a.m.,Education City
+Round 16 k.outs,,"Tues, Dec. 6",1H,2G,2 p.m.,Lusail
+Round 8 k.outs,,"Fri, Dec. 9",QF1: 1E/2F ,1G/2H,10 a.m.,Education City
+Round 8 k.outs,,"Fri, Dec. 9",QF2: 1A/2B ,1C/2D,2 p.m.,Lusail
+Round 8 k.outs,,"Sat, Dec. 10",QF3: 1F/2E ,1H/2G,10 a.m.,Al Thumama
+Round 8 k.outs,,"Sat, Dec. 10",QF4: 1B/2A ,1D/2C,2 p.m.,Al Bayt
+semi final ,,"Tues, Dec. 13",QF2 , QF1,2 p.m.,Lusail
+semi final ,,"Wed, Dec. 14",QF4 ,QF3,2 p.m.,Al Bayt
+Finals ,,"Sat, Dec. 17",Semifinal losers,,10 a.m.,Khalifa Int'l
+Finals ,,"Sun, Dec. 18",Semifinal winners,,10 a.m.,Lusail
